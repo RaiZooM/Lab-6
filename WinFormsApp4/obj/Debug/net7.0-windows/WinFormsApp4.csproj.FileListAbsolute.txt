@@ -1,0 +1,16 @@
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.Form1.resources
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.exe
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.deps.json
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.dll
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.pdb
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.dll
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\refint\WinFormsApp4.dll
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.pdb
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\raizo\OneDrive\Desktop\лаба 6\WinFormsApp1\WinFormsApp4\obj\Debug\net7.0-windows\ref\WinFormsApp4.dll
